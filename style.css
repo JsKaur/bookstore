@@ -1,0 +1,31 @@
+.container-fluid {
+    background-color: #0b0b0b !important; /* Adjust the hex color code to your desired dark shade */
+  }
+
+.brand-text {
+    color:darkgoldenrod;
+}
+.carousel-item img {
+    height: 500px; 
+    object-fit: cover;
+  }
+
+  .card-img-top {
+    max-width: 100%; /* Adjust as needed */
+    max-height: 350px; /* Adjust as needed */
+  }
+.card-body a{
+     text-decoration: none;
+     color:black;
+     font-weight: bold;
+
+}
+
+.card-body a:hover{
+  color:brown;
+}
+
+.carousel-item h5{
+    font-size:3em;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
